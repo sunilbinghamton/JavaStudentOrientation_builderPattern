@@ -1,15 +1,3 @@
-CS542 Design Patterns
-Fall 2016
-Assignment 3 README FILE
-
-Due Date: <Thursday, October 28th, 2016>
-Submission Date: <Thursday, October 28th, 2016>
-Grace Period Used This Project: 0 Days
-Grace Period Remaining: None Days
-Author(s): Sunil Kumar Sahu , Akshay Harish Shah
-e-mail(s): ssahu1@binghamton.edu, ashah38@binghamton.edu
-
-
 PURPOSE:
 
 This java program introduces to a design pattern to develop a tool for student 
@@ -89,7 +77,7 @@ Total Duration is 175 minutes
 Total Effort is 3750 calories
 
 TO COMPILE:
-Go to folder : sahu_sunil_shah_akshay/studentOrientation/
+Go to folder : sahu_sunil/studentOrientation/
 
 ant compile_all
 
